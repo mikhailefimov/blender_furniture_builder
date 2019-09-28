@@ -1,0 +1,10 @@
+Name,Count
+Handle(128),13
+Handle(96),19
+Hinge(inset 2.0),17
+Hinge(overlay 15.0),14
+Hinge(overlay 7.0),12
+drawer_sliders(464),4
+drawer_sliders(565),9
+legs(100),22
+shelf_holder,56
