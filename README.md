@@ -2,7 +2,7 @@
 
 This is a library for programmatically designing cabinet furniture in Blender.
 Generated models contain all important parts resembling actual construction of cabinet furniture.
-This script can even generate a bill of materials with part sizes.
+This script can even generate a bill of materials with parts sizes.
 
 It's is not 'end-user product', you need to know some Python to use it. 
 
@@ -37,7 +37,7 @@ See also `example.blend` and `example.py` files for more scripting examples.
 
 # License
 
-This script is unusable without Blender, so it is licenses under GNU GPL Version 2 or later (as Blender itself).
+This script is unusable without Blender, so it is licensed under GNU GPL Version 2 or later as Blender itself.
 See https://www.blender.org/about/license/ for licensing details.
 
 Of course, there may be bugs and corner cases, so use this at your own risk. 
