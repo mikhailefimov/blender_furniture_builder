@@ -6,6 +6,8 @@ This script can even generate a bill of materials with part sizes.
 
 It's is not 'end-user product', you need to know some Python to use it. 
 
+![example image](https://github.com/mikhailefimov/blender_furniture_builder/raw/master/example.jpg)
+
 # Compatibility 
 This version works in Blender 2.80 (or, maybe, newer).
 It will not work in older versions due to breaking API changes in Blender 2.80.
